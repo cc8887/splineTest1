@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "splineTest1", "splineTest1\splineTest1.vfproj", "{8E228129-F23B-4923-9209-0A25C3796E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E228129-F23B-4923-9209-0A25C3796E1A}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E228129-F23B-4923-9209-0A25C3796E1A}.Debug|x86.Build.0 = Debug|Win32
+		{8E228129-F23B-4923-9209-0A25C3796E1A}.Release|x86.ActiveCfg = Release|Win32
+		{8E228129-F23B-4923-9209-0A25C3796E1A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B35EA3D2-B88C-4D4C-908C-26CD58ED61E6}
+	EndGlobalSection
+EndGlobal
